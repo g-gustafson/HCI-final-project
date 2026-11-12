@@ -1,0 +1,34 @@
+Ideation for second interatom of the A New Catechumenate by Grant Gustafson: 
+
+
+
+change the timeline feature to have periodization on one side of the timeline and then have specific events on the other side
+
+have a section where people can give a start date and a time frame and it generates a schedule/planner day to day on what you need to do. 
+
+add a story section for jerry talking about how why he made this 
+
+add a forums page where you can see what other people have said.
+
+only have people log in when they want to write something but not to view
+
+make the timeline able to show specific chapters
+
+add links to timelines after each chapter 
+
+add links to timeline (specifically the element they click on) for each element in the timeline. 
+
+add a section that contains the audio book 
+
+have the audio book in each chapter and not in its own place. 
+
+have color coded something 
+
+make sections in the forums page specifically for ministry application
+
+add a button in the Journal questions section that lets you log in to write answers. 
+
+add new things to the drop down 
+
+simplify the drop down. 
+
